@@ -1,3 +1,3 @@
 ## 전체 flow chart
 
-![big](https://user-images.githubusercontent.com/46713032/55956655-6a086000-5c9f-11e9-88d3-82e0a709492c.png)
+![big_수정](https://user-images.githubusercontent.com/46713032/56031713-2b37e000-5d5b-11e9-8149-9b05cce838c5.png)
